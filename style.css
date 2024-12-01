@@ -1,0 +1,22 @@
+body{
+    background-color: blue;
+    width: 600px;
+    margin: 0 auto;
+    padding: 0 20px 20px 20px;
+    text-align: center;
+}
+.paneau{
+    background:rgba(245, 245, 247, 0.719);
+    position: relative;
+    width: 800px;
+    height: 400px;
+    text-align: center;
+    left: -120px;
+    top: 100px;
+    border-radius: 50% 20% / 10% 40%;
+
+}
+.pa{
+    position: relative;
+    top: 100px;
+}
